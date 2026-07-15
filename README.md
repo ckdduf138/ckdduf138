@@ -40,4 +40,4 @@
 | **algorithmcanvas** | 알고리즘 시각화 학습 사이트 | React, visx, TypeScript | [바로가기](https://algorithm-canvas.vercel.app) |
 | **foodlog** | PWA 음식 기록 다이어리 | Next.js 16, IndexedDB, Kakao Map | [바로가기](https://foodlog-five.vercel.app) |
 | **LPick** | LP 커뮤니티 플랫폼 (팀 프로젝트, 3인) | Next.js 15, Zustand, TanStack Query, Storybook | - |
-| **portfolio** | 개인 포트폴리오 사이트 | Vite 6, React, Tailwind | [바로가기](https://portfolio-ashy-one-82.vercel.app) |
+| **portfolio** | 개인 포트폴리오 사이트 | Vite 6, React, Tailwind | [바로가기](https://leechangyeol-portfolio.vercel.app/) |
