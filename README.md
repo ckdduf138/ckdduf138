@@ -36,6 +36,7 @@
 
 | 프로젝트 | 설명 | 스택 | 링크 |
 |---------|------|------|------|
+| **changyeol-island** | 게임을 좋아해서 자기소개를 게임으로 만든 인터랙티브 3D 포트폴리오 — 대화·낚시·발굴로 사람을 소개 | React 19, TypeScript, React Three Fiber, Zustand | [changyeol-island.vercel.app](https://changyeol-island.vercel.app) |
 | **deerlink** | 링크 하나로 그룹 의견 비교 플랫폼 | Next.js 16, Prisma, Turso | [deerlink.kr](https://deerlink.kr) |
 | **algorithmcanvas** | 알고리즘 시각화 학습 사이트 | React, visx, TypeScript | [바로가기](https://algorithm-canvas.vercel.app) |
 | **foodlog** | PWA 음식 기록 다이어리 | Next.js 16, IndexedDB, Kakao Map | [바로가기](https://foodlog-five.vercel.app) |
